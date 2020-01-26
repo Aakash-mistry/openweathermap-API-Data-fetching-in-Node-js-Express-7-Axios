@@ -1,0 +1,39 @@
+body {
+	font-family: 'Nunito',
+		sans-serif;
+}
+
+.pageTitle {
+	font-size: 4em;
+	color: grey;
+	padding: 20px;
+}
+
+.header {
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: center;
+	font-size: 2rem;
+}
+
+.cityName {
+	color: orangered;
+	font-weight: 600;
+}
+
+.countryName {
+	color: orangered;
+	font-weight: 600;
+}
+
+.mainsection {
+	margin-top: 50px !important;
+}
+
+.temprecher {
+	font-size: 5rem;
+	padding: 10px;
+	text-align: center;
+	margin-top: 50px;
+	color: rgb(119, 118, 118);
+}
